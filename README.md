@@ -1,2 +1,2 @@
 # DCGAN
-DCGAN than can run on google colab with GPU
+DCGAN that can run on google colab with GPU
